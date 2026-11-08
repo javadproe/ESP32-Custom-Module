@@ -1,0 +1,15 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Header 6","Header, 6-Pin","1","HDR1X6","Header 6","1"
+"100nf/0603","Capacitor","C1, C3, C5, C6","CAPC1608X90N","C0603C105K4RACTU7042","4"
+"10uf/16V/3528","Capacitor Polarised","C2","CAPPM3528X210N","TAJB475K025RNJ","1"
+"Red","LED","D2","LEDC2012X70N - duplicate","597-3305-607F","1"
+"BLUE","LED","D3","LEDC2012X70N","597-3305-607F_1","1"
+"22-28-4150","Connector","J2, J3","HDRV15W66P0X254_1X15_3810X249X838P","22-28-4150","2"
+"SS8050-G","Transistor BJT NPN","Q1, Q2","SOT95P240X115-3N","SS8050-G","2"
+"10K/0603","Resistor","R1, R4, R5, R6","RESC1608X55N","CRGCQ0603J10K","4"
+"1K/0603","Resistor","R3","RESC1608X55N","CRGCQ0603J10K","1"
+"220R/0603","Resistor","R7","RESC1608X55N","CRGCQ0603J10K","1"
+"TS-1187A-B-A-B","SPST 50mA @ 12VDC Top Actuated Round Button 160gf SMD Tactile Switches RoHS","SW1, SW2","SW_TS-1187A-B-A-B","TS-1187A-B-A-B","2"
+"ESP32-WROOM-32__16MB_","Integrated Circuit","U1","ESP32WROOM3216MB","ESP32-WROOM-32__16MB_","1"
+"Comment","Integrated Circuit","U3","SOT229P700X180-4N","AMS1117-3.3","1"
