@@ -38,13 +38,27 @@ Project Images
 
 3D PCB Render
 
-<!-- Add 3D render images here -->PCB Layout
+## Project Gallery
 
-<!-- Add PCB layout images here -->Schematic Design
+### 3D PCB Renders
 
-<!-- Add schematic images here -->Hardware Prototype
+![3D Render](Images/3D-Render.png)
 
-<!-- Add prototype images here -->Repository Structure
+![3D Render 1](Images/3D-Render1.png)
+
+![3D Render 2](Images/3D-Render2.png)
+
+### PCB Layout
+
+![PCB Layout](Images/PCB-Layout.png)
+
+![PCB Layout 2](Images/PCB-Layout2.png)
+
+![PCB Layout 3](Images/PCB-Layout3.png)
+
+![PCB Layout 4](Images/PCB-Layout4.png)
+
+![PCB Layout 5](Images/PCB-Layout5.png)
 
 Directory / File| Description
 "3D/"| 3D models and PCB visualization files
